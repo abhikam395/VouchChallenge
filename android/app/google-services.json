@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1065435187362",
+    "project_id": "vouchchallenge-d3df5",
+    "storage_bucket": "vouchchallenge-d3df5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065435187362:android:fa93065ca9ef40b0282ffb",
+        "android_client_info": {
+          "package_name": "com.vouchchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065435187362-knse24s95sae7ltnu1kid4ji2k5tc90t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vouchchallenge",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1065435187362-mhd7e9mprh2svu4nlg4bpsk1iobl1k4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcAbAuNdJ6y3AiwqZtt6CBx6ugUnI1y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065435187362-mhd7e9mprh2svu4nlg4bpsk1iobl1k4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
